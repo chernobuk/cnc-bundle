@@ -1,5 +1,5 @@
 ### Обработка отверстий, круговая и цилиндрическая интерполяция
-__O8010 Макрос расточки отверстий [wiki](https://gitverse.ru/uway/cnc/wiki/WIKICNC-2)__\
+__O8010 Макрос расточки отверстий [doc](macros/docs/8001.md)__\
 __O8011 Макрос фрезерования цековок [wiki](https://gitverse.ru/uway/cnc/wiki/WIKICNC-2)__\
 __O8012 Макрос нарезания резьбы фрезами [wiki](https://gitverse.ru/uway/cnc/wiki/WIKICNC-2)__
 ### Концептуальные походы при разработке макросов
