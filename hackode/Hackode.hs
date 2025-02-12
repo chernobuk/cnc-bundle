@@ -1,7 +1,10 @@
 {-# OPTIONS_GHC -Wno-overlapping-patterns #-}
+{-# LANGUAGE NumDecimals #-}
 module Hackode where
 
 -- ### 1.0 НОМЕР И КОММЕНТАРИИ ПРОГРАММЫ ### --
+
+
 
 -- ### 2.0  БЛОК КОМАНД И ФУНКЦИЙ ВЫБОРА ПЛОСКОСТИ ОБРАБОТКИ ### --
 xy :: Integer
