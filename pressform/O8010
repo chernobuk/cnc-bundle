@@ -1,0 +1,30 @@
+%
+O8010(MACROS RASTOCHKI OTVERSTIJ)
+ 
+(R - RADIUS OTV. ) 
+(D - NOMER KORREKTORA #7)
+(F - PODACHA #9) 
+ 
+(PRIMER) 
+ 
+#30=[#_OFSDG[#7]]+[#_OFSDW[#7]]
+ 
+G91
+ 
+ 
+G3X[#18-#30]R[#18/2-#30/2]F[#9/2](VREZANIE)
+ 
+G3X[-#18*2+#30*2]R[#18-#30]F[#9] 
+G3X[#18*2-#30*2]R[#18-#30] 
+(CHISTO) 
+G3X[-#18*2+#30*2]R[#18-#30]F[#9] 
+G3X[#18*2-#30*2]R[#18-#30] 
+ 
+G3X[-#18+#30]R[#18/2-#30/2]
+ 
+G90
+ 
+M99
+ 
+M30
+%
