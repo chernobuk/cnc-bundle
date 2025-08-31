@@ -1,4 +1,4 @@
-### Обработка отверстий, круговая и цилиндрическая интерполяция
+### Пример обработка отверстий, круговая и цилиндрическая интерполяция
 __O8010 Макрос расточки отверстий [doc](https://github.com/chernobuk/cnc-bundle/blob/main/macros/docs/8001.md)__\
 __O8011 Макрос фрезерования цековок [wiki](https://gitverse.ru/uway/cnc/wiki/WIKICNC-2)__\
 __O8012 Макрос нарезания резьбы фрезами [wiki](https://gitverse.ru/uway/cnc/wiki/WIKICNC-2)__
